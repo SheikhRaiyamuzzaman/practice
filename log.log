@@ -1,0 +1,18 @@
+commit 90eeec2f9da6f66f816caa67bc6c718ad5e16f20
+Author: SheikhRaiyamuzzaman <raiyamsmail@gmail.com>
+Date:   Sun Sep 22 21:43:40 2019 +0200
+
+    commiting A.text
+
+ A.text | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 05b6409d11176f4ce1be465bffd1b0400fedd557
+Author: SheikhRaiyamuzzaman <raiyamsmail@gmail.com>
+Date:   Sun Sep 22 21:40:50 2019 +0200
+
+    commiting A.text
+
+ A.text | 1 +
+ B.text | 1 +
+ 2 files changed, 2 insertions(+)
